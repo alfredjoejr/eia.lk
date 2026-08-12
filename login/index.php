@@ -124,10 +124,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
                 <input type="submit" value="Sign In" class="sign-btn" />
 
-                <!--<p class="text">
-                  Forgotten your password or you login datails?
+                <p class="text">
+                  Forgotten your password or your login details?
                   <a href="forgot-password.php">Get help</a> signing in
-                </p>-->
+                </p>
               </div>
             </form>
 

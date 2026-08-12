@@ -7,4 +7,4 @@ i fixed that flickr album responsive issue.
 Don't change the events section styling 
 i will fix its responsiveness within tomorrow.
 
-If you have any doubts drop me a message in whatsapp or telegram.
+If you have any doubts drop me a message in whatsapp or telegram..
