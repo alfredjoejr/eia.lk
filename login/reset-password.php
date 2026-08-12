@@ -192,8 +192,7 @@ if (strtotime($user["reset_token_expires_at"]) <= time()) {
     </div>
 
     <div class="text-center text-sm text-gray-500 mt-4">
-        © EIA 2024 | Made with <span class="text-red-500">❤️</span> by 
-        <a href="https://jefferson.com" target="_blank" class="text-blue-600 hover:underline">Jefferson</a>
+        © EIA 2024
     </div>
 
     <script>

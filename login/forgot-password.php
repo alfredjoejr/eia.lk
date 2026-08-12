@@ -113,8 +113,7 @@
         </div>
 
         <div class="text-center text-sm text-white mt-4">
-            © EIA 2024 | Made with <span class="text-red-400">❤️</span> by 
-            <a href="https://jeffersonben.github.io/" target="_blank" class="text-white hover:underline font-medium">Jefferson</a>
+            © EIA 2024
         </div>
     </main>
 

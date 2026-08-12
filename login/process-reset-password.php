@@ -34,7 +34,7 @@ function showErrorAlert($message) {
 }
 
 // Success alert configuration
-function showSuccessAlert($message, $redirectUrl = "login.php") {
+function showSuccessAlert($message, $redirectUrl = "index.php") {
     echo '
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script>
@@ -91,5 +91,5 @@ $stmt = $mysqli->prepare($sql);
 $stmt->bind_param("ss", $password_hash, $user["id"]);
 $stmt->execute();
 
-showSuccessAlert("Password has been updated. You can login now.", "login.php");
+showSuccessAlert("Password has been updated. You can login now.", "index.php");
 ?>
